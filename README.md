@@ -1,5 +1,3 @@
 # mac-changer
-########################
-usgae 
-#######################
+usgae
 python macchanger.py -i interface-name -m new mac-address
